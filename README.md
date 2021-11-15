@@ -4,11 +4,11 @@ I'm a software developer :technologist:
 
 An Entrepreneur :person_in_tuxedo:
 
-A husband & father of two beautiful children :orange_heart:  
+A husband & a father of two beautiful children :orange_heart:  
 
 ###
 
-I'm currently looking now for a partner & an investor to start a small to medium I.T company 
+I'm currently looking now for a partners & an investors to start a small to medium I.T company 
 
 
 ### Git Hub Stats 
