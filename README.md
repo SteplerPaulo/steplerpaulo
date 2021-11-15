@@ -1,15 +1,20 @@
 ### Hi, I'm Paulo. :wave:
 
-I'm a software developer :technologist:
+  I'm a software developer :technologist:
 
-An Entrepreneur :person_in_tuxedo:
+  An Entrepreneur :person_in_tuxedo:
 
-A husband & a father of two beautiful children :orange_heart:  
+  A husband & a father of two beautiful children...
+  <br />
 
-###
+#### I'm currently exploring opportunities & now looking for a partners & an investors to start a small to medium I.T company. 
 
-I'm currently looking now for a partners & an investors to start a small to medium I.T company 
+You may contact me via [Facebook](https://www.facebook.com/paulo.biscocho) or 
+[LinkedIn](https://www.linkedin.com/in/paulo-biscocho/) :iphone:
 
+
+
+## PAULO BISCOCHO
 
 ### Git Hub Stats 
 
