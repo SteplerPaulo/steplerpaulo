@@ -44,4 +44,10 @@ You may contact me via [Facebook](https://www.facebook.com/paulo.biscocho) or
 
 ![PHP-Testdome](https://user-images.githubusercontent.com/2784873/141812246-27d6060b-ca2e-4704-ad3f-6d2d82a00692.jpg)
 
+### TOP 10% Rank on MySQL & SQL
+
+[MySQL & SQL Testdome Certificatation ](https://app.testdome.com/cert/835d69dacfd043b7854c7bdff34f34db)
+
+![MySQL---SQL--Testdome](https://user-images.githubusercontent.com/2784873/141941757-6ca8f585-654f-417e-a7fc-b1f54f98f55f.jpg)
+
 
