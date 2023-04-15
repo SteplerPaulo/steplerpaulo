@@ -5,9 +5,6 @@ Let's connect • [Facebook](https://www.facebook.com/paulo.biscocho) •
 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho/) • [Twitter](https://twitter.com/stepler_paulo)
 
 
-
-## PAULO BISCOCHO
-
 ### Git Hub Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steplerpaulo&show_icons=true&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
