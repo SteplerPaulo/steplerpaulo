@@ -1,6 +1,5 @@
 ### Hi, I'm Paulo. :wave:
 
-#### I'm currently exploring opportunities & now looking for partners & and investors to start a small to medium I.T company.
 
 Let's connect • [Facebook](https://www.facebook.com/paulo.biscocho) • 
 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho/) • [Twitter](https://twitter.com/stepler_paulo)
