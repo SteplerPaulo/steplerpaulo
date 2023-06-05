@@ -15,7 +15,7 @@ Let's connect • [Facebook](https://www.facebook.com/paulo.biscocho) •
 
 
 ### Codewars Account & Badge
-4KYU on [Codewars](https://www.codewars.com/users/steplerpaulo)  
+## 4KYU on [Codewars](https://www.codewars.com/users/steplerpaulo)  
   
 ![Codewars Badge](https://www.codewars.com/users/steplerpaulo/badges/large)
 
@@ -39,4 +39,11 @@ Let's connect • [Facebook](https://www.facebook.com/paulo.biscocho) •
 
 ![MySQL---SQL--Testdome](https://user-images.githubusercontent.com/2784873/141941757-6ca8f585-654f-417e-a7fc-b1f54f98f55f.jpg)
 
+### CodinGame Javascript Certification
+
+[Certification.pdf](https://github.com/SteplerPaulo/steplerpaulo/files/11649557/Certification.pdf)
+
+
+
+![Certification](https://github.com/SteplerPaulo/steplerpaulo/assets/2784873/5d6449d1-4c06-45bf-a0bd-622196794b16)
 
