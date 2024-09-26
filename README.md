@@ -1,6 +1,6 @@
-### 👋 Hello, fellow developers! Welcome to my GitHub profile!
+### 👋 Welcome to my GitHub!
 
-I'm Paulo, a passionate software engineer with a love for crafting robust and scalable solutions to complex problems. My journey in the world of programming began 12 years ago, and since then, I've been on an exhilarating quest to sharpen my skills and explore new technologies.
+I'm Paulo, a software engineer with a passion for turning ideas into reality through code. With over a decade of experience, I specialize in building scalable systems and delivering clean, efficient solutions to complex challenges. I thrive on continuous learning and adapting to new technologies, always aiming to push the boundaries of what's possible in software development.
 
 🚀 What I Do:
 
