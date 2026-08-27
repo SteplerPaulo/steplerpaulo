@@ -1,37 +1,36 @@
 ### 👋 Hi, I'm Paulo
 
-I'm a **Senior Software Engineer and Tech Lead** with 14+ years of experience building software and leading engineering teams.
+I'm a **Senior Software Engineer and Tech Lead** with 14+ years of experience building software, solving complex problems, and helping engineering teams deliver reliable products.
 
-My background spans **fintech, digital banking, payments, lending, collections, and business applications**, where I've worked on systems that require reliability, scalability, security, and strong integration with other platforms.
+My experience spans **fintech, digital banking, lending, payments, collections, and business applications**—from designing and building systems to integrating platforms and improving existing solutions.
 
 ### 🚀 What I Do
 
-I enjoy solving complex business and technical problems and turning them into **simple, maintainable, and scalable solutions**.
+I work at the intersection of **hands-on engineering and technical leadership**.
 
-My work typically involves:
+I enjoy taking complex business requirements and turning them into **simple, maintainable, and scalable solutions**. Beyond writing code, I contribute to system design, technical decisions, code quality, engineering standards, and mentoring.
 
-* Designing and building software systems
-* Making architectural and technical decisions
-* Integrating systems and third-party services
-* Improving code quality and engineering practices
-* Reviewing code and mentoring engineers
-* Working closely with product and business teams
+I work closely with engineers, product teams, and business stakeholders to make sure we're not just **building things right, but building the right things**.
 
-I'm still **hands-on with development** while taking responsibility for technical direction and helping teams deliver effectively.
+### 💡 How I Approach Engineering
 
-### 💡 How I Work
+I believe the best solution isn't always the most sophisticated one.
 
-I believe good engineering starts with **understanding the problem before choosing the technology**.
+**Understand the problem. Keep the design simple. Make informed trade-offs. Build for what matters. Improve as you learn.**
 
-I value simplicity, clear architecture, pragmatic decisions, continuous learning, and software that delivers measurable business value.
+Technology changes constantly, so I focus on strong engineering fundamentals rather than being defined by a particular framework or tool.
 
 ### 🎯 What I'm Looking For
 
-I'm interested in opportunities where I can contribute as a **Senior Software Engineer or Tech Lead**—building meaningful products, solving challenging problems, and helping other engineers grow.
+I'm most interested in **Senior Software Engineer and Tech Lead roles** where I can stay hands-on, solve meaningful technical challenges, contribute to architecture and technical direction, and help other engineers grow.
+
+I value teams that encourage **ownership, collaboration, continuous learning, and pragmatic engineering**.
 
 ### 🤝 Let's Connect
 
-Feel free to explore my projects or connect with me on **LinkedIn**.
+Feel free to explore my repositories to see what I'm building and experimenting with.
+
+I'm always open to connecting with fellow engineers and discussing **software engineering, system design, leadership, and building useful products**.
 
 ---
 
