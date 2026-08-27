@@ -1,18 +1,35 @@
+# GitHub Profile README
+
 ### 👋 Hi, I'm Paulo
 
-I'm a **Senior Software Engineer and Tech Lead** with over a decade of experience building and improving software systems.
+I'm a **Senior Software Engineer and Tech Lead** with 14+ years of experience building software and leading engineering teams.
 
-I enjoy tackling complex business and technical problems, turning them into **simple, maintainable, and scalable solutions**.
+My background spans **fintech, digital banking, payments, lending, collections, and business applications**, where I've worked on systems that require reliability, scalability, security, and strong integration with other platforms.
 
 ### 🚀 What I Do
 
-I design and build software with a focus on **system design, clean architecture, reliability, and practical business value**. I also enjoy mentoring engineers, improving development practices, and exploring better ways to build software.
+I enjoy solving complex business and technical problems and turning them into **simple, maintainable, and scalable solutions**.
 
-### 💡 My Approach
+My work typically involves:
 
-I believe technology is a tool, not the goal. Start with the problem, choose the right approach, and build something that delivers real value.
+* Designing and building software systems
+* Making architectural and technical decisions
+* Integrating systems and third-party services
+* Improving code quality and engineering practices
+* Reviewing code and mentoring engineers
+* Working closely with product and business teams
 
-I'm always learning, experimenting, and improving along the way.
+I'm still **hands-on with development** while taking responsibility for technical direction and helping teams deliver effectively.
+
+### 💡 How I Work
+
+I believe good engineering starts with **understanding the problem before choosing the technology**.
+
+I value simplicity, clear architecture, pragmatic decisions, continuous learning, and software that delivers measurable business value.
+
+### 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can contribute as a **Senior Software Engineer or Tech Lead**—building meaningful products, solving challenging problems, and helping other engineers grow.
 
 ### 🤝 Let's Connect
 
