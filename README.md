@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 ### 👋 Hi, I'm Paulo
 
 I'm a **Senior Software Engineer and Tech Lead** with over a decade of experience building and improving software systems.
