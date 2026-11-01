@@ -1,25 +1,44 @@
-### 👋 Hi, I'm Paulo
+# 👋 Hi, I'm Paulo
 
-I'm a **Senior Software Engineer and Tech Lead** with 14+ years of experience building and maintaining software systems.
+I'm a **Senior Software Engineer and Tech Lead** with **14+ years of experience** building, integrating, and delivering software solutions.
 
-Most of my recent experience is in **fintech**, working on lending, payments, collections, integrations, and business applications.
+My experience spans **digital banking, fintech, enterprise applications, and education technology**, working across the stack while helping engineering teams deliver reliable and maintainable systems.
 
 ### 👨‍💻 What I Do
 
-I'm a hands-on developer who also leads teams.
+I'm a **hands-on software engineer who also leads teams**.
 
-I work across the stack—from **frontend and backend to APIs, databases, cloud, and infrastructure**. I also design solutions, review PRs, make technical decisions, and mentor other developers.
+- Build full-stack, mobile, and enterprise applications.
+- Develop APIs and integrate complex systems and platforms.
+- Contribute to solution design, technical decisions, and implementation planning.
+- Review code, mentor developers, and collaborate across teams.
+- Support software delivery, security, reliability, and continuous improvement.
 
 ### 💡 How I Work
 
-I like to understand the problem first and keep the solution simple.
+I believe good engineering starts with **understanding the problem**.
 
-I care about **clean code, maintainability, reliability, and getting things delivered**. Technology changes, so I'm always open to learning and using the right tools for the job.
+My approach is built around:
 
-### 🎯 What I'm Looking For
+- **Hands-on problem solving** — staying close to the code and the challenges.
+- **Practical technical decisions** — balancing simplicity, scalability, and maintainability.
+- **Collaborative team leadership** — sharing knowledge and helping engineers grow.
+- **End-to-end solution delivery** — connecting business needs with working software.
+- **AI-assisted engineering** — using modern tools thoughtfully while maintaining engineering judgment.
+- **Continuous learning and improvement** — staying curious and adapting to change.
 
-I'm looking for a **Senior Software Engineer or Tech Lead** role where I can stay hands-on, solve interesting problems, and help the team grow.
+### 🚀 What I'm Looking For
+
+I'm open to opportunities as a **Senior Software Engineer, Technical Lead, or Solution Architect**, where I can combine hands-on engineering, technical direction, and collaborative leadership.
+
+I'm especially interested in teams solving meaningful problems, improving existing systems, and building software that delivers real value.
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho)
+- 🌐 [Portfolio](https://github.com/SteplerPaulo) — replace with your portfolio URL once deployed
+- 📧 [Email](mailto:paulobiscocho@gmail.com)
 
 ---
 
-> **Turning complex problems into simple solutions.**
+> Turning complex problems into practical solutions.
