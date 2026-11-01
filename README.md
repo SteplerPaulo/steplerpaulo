@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Paulo
+# Senior Software Engineer | Tech Lead
 
-I'm a **Senior Software Engineer and Tech Lead** with **14+ years of experience** building, integrating, and delivering software solutions.
+**14+ years of experience** turning complex challenges into practical, reliable software solutions.
 
-My experience spans **digital banking, fintech, enterprise applications, and education technology**, working across the stack while helping engineering teams deliver reliable and maintainable systems.
+I combine **hands-on engineering with technical leadership**, building systems, integrating platforms, and helping teams deliver software that creates real business value.
 
 ### 👨‍💻 What I Do
 
