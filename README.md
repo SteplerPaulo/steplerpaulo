@@ -36,7 +36,7 @@ I'm especially interested in teams solving meaningful problems, improving existi
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho)
-- 🌐 [Portfolio](https://github.com/SteplerPaulo) — replace with your portfolio URL once deployed
+- 🌐 [Portfolio](https://github.com/SteplerPaulo)
 - 📧 [Email](mailto:paulobiscocho@gmail.com)
 
 ---
