@@ -36,9 +36,36 @@ I'm especially interested in teams solving meaningful problems, improving existi
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho)
-- 🌐 [Portfolio](https://github.com/SteplerPaulo)
 - 📧 [Email](mailto:paulobiscocho@gmail.com)
 
 ---
 
 > Turning complex problems into practical solutions.
+
+
+
+### Git Hub Stats 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SteplerPaulo&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SteplerPaulo&langs_count=4&theme=transparent)
+
+
+### Codewars Account & Badge
+4KYU on [Codewars](https://www.codewars.com/users/steplerpaulo)  
+  
+![Codewars Badge](https://www.codewars.com/users/steplerpaulo/badges/large)
+
+
+### TOP 10% Rank on Javascript
+
+[Javascript Testdome Certificatation ](https://app.testdome.com/cert/1797c43cb7b0425a81c820b5fec9a815)
+
+
+![JS--Testdome](https://user-images.githubusercontent.com/2784873/141809916-923ac866-9fef-4229-944c-f3c7b6522fc0.jpg)
+
+### TOP 10% Rank on PHP
+
+[PHP Testdome Certificatation ](https://app.testdome.com/cert/fa3d46163a5940c083886891f79701b8)
+
+![PHP-Testdome](https://user-images.githubusercontent.com/2784873/141812246-27d6060b-ca2e-4704-ad3f-6d2d82a00692.jpg)
