@@ -38,12 +38,6 @@ I'm especially interested in teams solving meaningful problems, improving existi
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho)
 - 📧 [Email](mailto:paulobiscocho@gmail.com)
 
----
-
-> Turning complex problems into practical solutions.
-
-
-
 ### Git Hub Stats 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
