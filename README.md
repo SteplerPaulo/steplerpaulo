@@ -33,33 +33,35 @@ I'm open to opportunities as a **Senior Software Engineer, Technical Lead, or So
 
 I'm especially interested in teams solving meaningful problems, improving existing systems, and building software that delivers real value.
 
-### 🤝 Let's Connect
+## 🏆 Coding Achievements & Certifications
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-biscocho)
-- 📧 [Email](mailto:paulobiscocho@gmail.com)
+### 🥋 Codewars — 4 Kyu
 
-### Git Hub Stats 
+Demonstrated problem-solving skills through coding challenges focused on algorithms, data structures, and programming fundamentals.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SteplerPaulo&custom_title=Public%20Repo%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+[![Codewars Badge](https://www.codewars.com/users/steplerpaulo/badges/large)](https://www.codewars.com/users/steplerpaulo)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SteplerPaulo&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SteplerPaulo&langs_count=4&theme=transparent)
+### 🏅 Technical Assessments & Certifications
+
+**JavaScript — Top 10% on TestDome**
+
+Achieved a **Top 10% ranking** in the JavaScript assessment, demonstrating proficiency in JavaScript programming and problem-solving.
+
+📜 [View JavaScript TestDome Certificate](https://app.testdome.com/cert/1797c43cb7b0425a81c820b5fec9a815)
+
+**PHP — TestDome Certification**
+
+Demonstrated proficiency in PHP programming and technical problem-solving through a TestDome assessment.
+
+📜 [View PHP TestDome Certificate](https://user-images.githubusercontent.com/2784873/141812246-27d6060b-ca2e-4704-ad3f-6d2d82a00692.jpg)
 
 
-### Codewars Account & Badge
-4KYU on [Codewars](https://www.codewars.com/users/steplerpaulo)  
-  
-![Codewars Badge](https://www.codewars.com/users/steplerpaulo/badges/large)
+### 🎓 Additional Certifications
+
+Continuously expanding my expertise in software engineering, system architecture, cloud technologies, and technical leadership.
+
+📜 [View All Certifications on LinkedIn](https://www.linkedin.com/in/paulo-biscocho/details/certifications/)
 
 
-### TOP 10% Rank on Javascript
-
-[Javascript Testdome Certificatation ](https://app.testdome.com/cert/1797c43cb7b0425a81c820b5fec9a815)
 
 
-![JS--Testdome](https://user-images.githubusercontent.com/2784873/141809916-923ac866-9fef-4229-944c-f3c7b6522fc0.jpg)
-
-### TOP 10% Rank on PHP
-
-[PHP Testdome Certificatation ](https://app.testdome.com/cert/fa3d46163a5940c083886891f79701b8)
-
-![PHP-Testdome](https://user-images.githubusercontent.com/2784873/141812246-27d6060b-ca2e-4704-ad3f-6d2d82a00692.jpg)
