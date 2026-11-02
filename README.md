@@ -100,7 +100,7 @@ Recognized among the top 10% of assessment participants for JavaScript programmi
 
 Recognized among the top 10% of assessment participants for PHP programming and problem-solving.
 
-📜 [View PHP Certificate](https://user-images.githubusercontent.com/2784873/141812246-27d6060b-ca2e-4704-ad3f-6d2d82a00692.jpg)
+📜 [View PHP Certificate](https://www.testdome.com/certificates/fa3d46163a5940c083886891f79701b8)
 
 ### 🎓 Professional Development
 
